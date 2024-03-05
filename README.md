@@ -1,2 +1,4 @@
 # Belajar GoLang
-![golang](https://github.com/Arfalla/belajar-go/assets/102490640/eb57e993-3d68-4b16-810f-ec91ce7874e1)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622474468383/R59hw7hZG.png" width="300" height="200">
+## DTS Fresh Graduate Kominfo
+
