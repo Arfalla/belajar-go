@@ -42,15 +42,14 @@ func tampilkanData(absen int) {
 }
 
 func main() {
-	// Agar tidak panic saat debug
 	if len(os.Args) < 2 {
 		fmt.Println("Gunakanlah: go run biodata.go <nomor_absennya>")
 		return
 	}
+	// Menangkap input nomor absen
 	absen := os.Args[1]
-	var absenInt int
-	fmt.Sscanf(absen, "%d", &absenInt)
-
-	tampilkanData(absenInt)
+	var noAbsen int
+	fmt.Sscanf(absen, "%d", &noAbsen)
+	// Menjalankan func sesuai nomor absen yg diinput
+	tampilkanData(noAbsen)
 }
-
