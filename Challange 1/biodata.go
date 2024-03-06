@@ -1,3 +1,5 @@
+// Arman Fadhilla - Golang 006
+// Challange 1
 package main
 
 import (
